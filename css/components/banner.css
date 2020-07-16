@@ -1,0 +1,33 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.8);
+  margin-bottom: 50px;
+}
+
+.banner .btn-treehouse {
+  background-color: #d29e87;
+  color: white;
+  border-radius: 6px;
+  padding: 16px 24px;
+  transition: 0.3s;
+}
+
+.btn-treehouse:hover {
+  background-color: #d68460;
+}
